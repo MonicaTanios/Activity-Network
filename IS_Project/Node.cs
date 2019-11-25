@@ -61,7 +61,6 @@ namespace IS_Project
                 }
                 else
                     OneDep += depen[i];
-
             }
             if (OneDep.Length >= 1)
             {
