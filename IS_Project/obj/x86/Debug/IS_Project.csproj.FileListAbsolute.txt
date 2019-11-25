@@ -1,0 +1,11 @@
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\bin\Debug\IS_Project.exe
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\bin\Debug\IS_Project.pdb
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\obj\x86\Debug\IS_Project.Form1.resources
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\obj\x86\Debug\IS_Project.Properties.Resources.resources
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\obj\x86\Debug\IS_Project.csproj.GenerateResource.Cache
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\obj\x86\Debug\IS_Project.exe
+C:\Users\Prof. Adel\AppData\Local\Temporary Projects\IS_Project\obj\x86\Debug\IS_Project.pdb
+C:\Users\Prof. Adel\Documents\Visual Studio 2010\Projects\IS_Project\IS_Project\obj\x86\Debug\IS_Project.exe
+C:\Users\Prof. Adel\Documents\Visual Studio 2010\Projects\IS_Project\IS_Project\obj\x86\Debug\IS_Project.pdb
+H:\IS_Project\IS_Project\obj\x86\Debug\IS_Project.exe
+H:\IS_Project\IS_Project\obj\x86\Debug\IS_Project.pdb
